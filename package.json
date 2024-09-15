@@ -10,5 +10,8 @@
   "license": "ISC",
   "bin": {
     "multiply": "bin/index.js"
+  },
+  "dependencies": {
+    "@kenzoxx/multiply-tool": "^1.0.0"
   }
 }
