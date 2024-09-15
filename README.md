@@ -9,6 +9,8 @@ You can install the package globally using the following command:
 ```bash
 npm install -g @kenzoxx/multiply-tool
 
+```
+
 Alternatively, you can run the tool directly using npx without installation:
 
 ```bash
