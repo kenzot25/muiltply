@@ -1,33 +1,16 @@
 # @kenzoxx/multiply-tool
 
-This is my first npm CLI app that multiplies two numbers and returns the result.
+This is a simple CLI tool that multiplies two numbers. It serves as a demonstration of how to create and publish an NPM CLI package.
 
-Usage
-You can use the CLI tool by running:
+## Installation
 
-bash
-Copy code
-multiply <number1> <number2>
-For example:
+You can install the package globally using the following command:
 
-bash
-Copy code
-multiply 3 5
-This will output:
+```bash
+npm install -g @kenzoxx/multiply-tool
 
-bash
-Copy code
-15
-Alternatively, you can run the tool using npx without installing it globally:
+Alternatively, you can run the tool directly using npx without installation:
 
-bash
-Copy code
-npx @kenzoxx/multiply-tool 3 5
-How it Works
-The tool takes two numbers as arguments, multiplies them, and prints the result to the console.
+```bash
+npx @kenzoxx/multiply-tool <number1> <number2>
 
-Author
-Created by Mike.
-
-License
-This project is licensed under the ISC License.
