@@ -1,6 +1,6 @@
 {
   "name": "@kenzoxx/multiply-tool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is my first npm cli app",
   "main": "index.js",
   "scripts": {
